@@ -2,6 +2,6 @@
   "name": "selectize-item-color",
   "version": "0.0.1",
   "dependencies": {
-    "selectize": "~0.8.1"
+    "selectize": ">=0.8.1"
   }
 }
